@@ -1,7 +1,8 @@
 # Presentación hecha con Reveal.js
 
 ![vue](img/vue-caratula.png)
-
+Puedes ver las diapositivas en el siguiente enlace: 
+[Slides online](https://crisdux.github.io/CharlaVueULaSalle2020/#/)
 ---
 
 <p align="center">
